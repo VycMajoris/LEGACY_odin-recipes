@@ -1,4 +1,35 @@
+body {
+    background-color: rgb(187, 197, 137);
+}
+
 img {
     height: 500px;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+div {
+    margin: auto;
+}
+
+h2 {
+    
+    text-decoration: underline;
+}
+
+
+
+h2, h1 {
+    color: rgb(212, 18, 226);
+    text-align: center;
+}
+
+li {
+    font-size: 24px;
+}
+
+ol li {
+    font-size: 18px;
 }
